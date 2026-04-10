@@ -4,7 +4,7 @@ An interactive web-based Turing Machine Simulator built for the
 Theory of Computation course (Unit 5 — Turing Machines).
 
 ## Live Demo
-[Click here to open the simulator](https://turing-machine-simulator.vercel.app)
+[Click here to open the simulator](https://turing-machine-simulator-one.vercel.app)
 
 ## Features
 - 7 pre-built Turing Machines
